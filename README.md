@@ -5,7 +5,7 @@
 
 ![Banner](/canarypage.png)
 Format: ![Alt Text](url)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCa1pha&count_bg=%2300A2FF&title_bg=%23555555&icon=visualstudiocode.svg&icon_color=%23E7E7E7&title=Calpha&edge_flat=false)](https://hits.seeyoufarm.com)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
