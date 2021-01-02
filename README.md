@@ -1,6 +1,11 @@
 # Ca1pha
->>hello
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ca1pha)](https://github.com/anuraghazra/github-readme-stats)
+>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ca1pha)](https://github.com/anuraghazra/github-readme-stats)
+
+<a class="twitter-follow-button"
+  href="https://twitter.com/Calpha_x"
+  data-size="large">
+Follow @Calpha_x</a>
+
 <!--
 **Ca1pha/Ca1pha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
