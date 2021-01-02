@@ -1,6 +1,6 @@
 # Ca1pha
 >>hello
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?Ca1pha=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ca1pha)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Ca1pha/Ca1pha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
